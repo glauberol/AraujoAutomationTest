@@ -1,0 +1,19 @@
+{
+  "name": "desafio_araujo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "Douglas Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.2.0",
+    "cypress-cucumber-preprocessor": "^4.3.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

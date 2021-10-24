@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://www.araujo.com.br/",
+    "defaultCommandTimeout": 15000,
+    "pageLoadTimeout": 600000
+  }
